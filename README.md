@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hemanta222
+- 👋 Hi, I’m Hemanta Das
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m a JavaScript Developer, currenlty working as ReactJs Developer for AllCode Technologies Pvt. Lmt.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... email : das.hemanta775@gmail.com,  Linked-in : https://www.linkedin.com/in/hemanta-das
 
 <!---
 Hemanta222/Hemanta222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
