@@ -11,7 +11,7 @@
 - List of projects associated with AllCode Technologies Pvt. Lmt.
 - 1)https://www.jiwancare.com/    -> Lab test booking application.
 - 2)https://www.cryptoraffle.co.in/   -> A betting app.
-- 3) Dokana App (in developmemt) -> An e-commerce platform for clothing stores (multi-vendor) app.
+- 3)Dokana App (in developmemt) -> An e-commerce platform for clothing stores (multi-vendor) app.
 
 <!---
 Hemanta222/Hemanta222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
