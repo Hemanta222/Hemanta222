@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hemanta Das
 - 👀 I’m a Web Development(MERN Stack Developer) by profession.
-- 🌱 I have been working as MERN Stack Developer for AllCode Technologies Pvt. Lmt. since January 2022.
+-  I have expirenced of 3 years as professional developer.
+- 🌱 I have been working as MERN Stack Developer for OneBillionIdeas Pvt. Ltd since May 2023.
 - 📫 How to reach me ... email : das.hemant775@gmail.com,  Linked-in : https://www.linkedin.com/in/hemanta-das
 
 - List of portfolio projects-
@@ -9,7 +10,15 @@
 - 3)https://weatherapp-fzp0.onrender.com/  -> Weather app for getting weather forcast using open weather api.
 - 4)https://states-api.onrender.com        -> Indian States API can be used to get all states of India in json  format. It provides a diffrent api routes to get diffrent                                               kind data such as states, uts, states with capitals, uts with capital, states and uts with capitals, state wise districts,                                                 and state wise cities. This api(s) shall useful for handling address form(s)
 
-- List of projects associated with AllCode Technologies Pvt. Lmt.
+- - List of projects associated with OneBillionIdeas Pvt. Ltd.
+  - 1) ERP Project for a Saudi Arabia company. It is a very big project with latest technologies like Camunda and FormIo for process automation and NestJs for microservices architecture with Postgress and Mongodb databases for storing structured and unstructured data respectively.
+    2) AI backed e-commerce platform.
+    3) Analytical project with GEOJSON data.
+
+
+
+    
+- List of projects associated with AllCode Technologies Pvt. Ltd.
 - 1)https://www.jiwancare.com/    -> Lab test booking application.
 - 2)https://www.cryptoraffle.co.in/   -> A betting app.
 - 3)Dokana App (in developmemt) -> An e-commerce platform for clothing stores (multi-vendor) app.
