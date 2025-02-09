@@ -7,7 +7,7 @@
 - List of portfolio projects-
 - 1)https://ai-gpt-chat.vercel.app/        -> AI based app where you can ask for anythink of your interest.
 - 2)https://foodshub.vercel.app/           -> Food ordering web application built using MERN Stack.
-- 3)https://weatherapp-fzp0.onrender.com/  -> Weather app for getting weather forcast using open weather api.
+- 3)https://weather-app-hd.vercel.app/     -> Weather app for getting weather forcast using open weather api.
 - 4)https://indian-states-api.vercel.app   -> Indian States API can be used to get all states of India in json  format. It provides a diffrent api routes to get diffrent                                               kind data such as states, uts, states with capitals, uts with capital, states and uts with capitals, state wise districts,                                                 and state wise cities. This api(s) shall useful for handling address form(s)
 - 5)https://sodio-dashboard-app.netlify.app/ -> User Dashboard App
 
