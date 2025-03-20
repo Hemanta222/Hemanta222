@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Hemanta Das
-- 👀 I’m a Web Development(MERN Stack Developer) by profession.
+- 👀 I’m a Web Development (MERN Stack Developer) by profession.
 -  I have expirenced of 3 years as professional developer.
 - 🌱 I have been working as MERN Stack Developer for OneBillionIdeas Pvt. Ltd since May 2023.
 - 📫 How to reach me ... email : das.hemant775@gmail.com,  Linked-in : https://www.linkedin.com/in/hemanta-das
@@ -10,7 +10,7 @@
 - 3)https://weather-app-hd.vercel.app/     -> Weather app for getting weather forcast using open weather api.
 - 4)https://indian-states-api.vercel.app   -> Indian States API can be used to get all states of India in json  format. It provides a diffrent api routes to get diffrent                                               kind data such as states, uts, states with capitals, uts with capital, states and uts with capitals, state wise districts,                                                 and state wise cities. This api(s) shall useful for handling address form(s)
 - 5)https://sodio-dashboard-app.netlify.app/ -> User Dashboard App
-- 6) https://pokemon-statfinity.vercel.app/
+- 6)https://pokemon-statfinity.vercel.app/
 
 - - List of projects associated with OneBillionIdeas Pvt. Ltd.
   - 1) ERP Project for a Saudi Arabia company. It is a very big project with latest technologies like Camunda and FormIo for process automation and NestJs for microservices architecture with Postgress and Mongodb databases for storing structured and unstructured data respectively.
