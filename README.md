@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m Hemanta Das
-- 👀 I’m a Web Development (MERN Stack Developer) by profession.
--  I have expirenced of 4 years as professional developer.
-- 🌱 I have been working as MERN Stack Developer for Kudzu Infotech Pvt. Ltd since July 2025.
+- 👀 I’m a Full Stack Web Development by profession.
+-  I have expirenced of 6 years as professional developer.
+- 🌱 I have been working as Technical Consultant for Kudzu Infotech Pvt. Ltd since July 2025.
 - 📫 How to reach me ... email : das.hemant775@gmail.com,  Linked-in : https://www.linkedin.com/in/hemanta-das
 ## website - https://hemantadas.netlify.app/
 - List of portfolio projects-
